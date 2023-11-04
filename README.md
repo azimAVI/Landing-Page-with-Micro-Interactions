@@ -30,3 +30,8 @@ Creating a landing page with micro-interactions can enhance user engagement and 
     - Publish your landing page and monitor user interactions and engagement. Collect feedback and data to make improvements as needed.
 
 Remember to keep the micro-interactions subtle and purposeful, ensuring they enhance the user experience rather than distracting from the main message of your landing page. The key is to create a visually pleasing and interactive experience that encourages visitors to take action.
+
+
+## 👉You can go through my project: 
+   - link 1: 
+   - link 2:
