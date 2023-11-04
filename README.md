@@ -34,4 +34,4 @@ Remember to keep the micro-interactions subtle and purposeful, ensuring they enh
 
 ## 👉You can go through my project: 
    - link 1: https://azimavi.github.io/Landing-Page-with-Micro-Interactions/
-   - link 2:
+   - link 2: https://cuportfolio.netlify.app
